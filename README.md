@@ -7,6 +7,6 @@ Upload the .ino script to your arduino. Normally, it will send [Ctrl]-[Alt]-l to
 When starting the python script, it will connect to the arduino over serial connection, enabling the 'timing mode'. Then, the button sends [Enter], and the time between the presses will be shown in the python script.
 
 # Contributors
-@He3lixxx https://github.com/He3lixxx
+[@He3lixxx](https://github.com/He3lixxx)
 
-@XPerianer https://github.com/XPerianer
+[@XPerianer](https://github.com/XPerianer)
